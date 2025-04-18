@@ -1,0 +1,204 @@
+====================================
+       BOB, LE PETIT ROBOT
+         Monde ASCII - Chapitre 1
+====================================
+Realiser par 
+
+ Thileepan Edvin ; Rayan Baraket
+           Mourad Belabed
+
+====================================
+
+
+
+[INTRO]
+
+Salut, moi c’est Bob. Je suis un petit robot, rien de fou, mais j’aime bien explorer.
+Un jour, je traînais sur un vieux terminal un peu rouillé… et j’ai appuyé sur une touche au hasard.
+
+Grosse erreur.
+
+Il y a eu des bruits bizarres : *PSSHHHH... VRRRRT...* et là, boum, écran noir.
+
+Quand j’ai rouvert les yeux... ben, tout avait changé. Y’avait plus que des caractères partout, genre du texte vivant.
+
+J’étais dans le monde ASCII. Oui, vraiment.
+
+[CHAPITRE 1 - La plaine des tirets]
+
+Bon, je me suis retrouvé tout seul dans un grand espace vide,
+ genre une plaine... mais faite avec des tirets.
+
+    ____________________________
+   |                            |
+   |   -   -   -   -   -   -  - |
+   |                            |
+   |     (•_•)                  |
+   |    /|   |\   ← Moi         |
+   |     |___|                  |
+   |____________________________|
+
+Bob : Euh... y’a quelqu’un ? C’est quoi cet endroit bizzare ?
+      Tout est plat et y’a que des tirets…
+
+Pas le choix, faut que j’avance. On verra bien ce que je trouve.
+
+
+====================================
+         Chapitre 2
+     Le pont en points...
+====================================
+
+Je marchais depuis un moment quand je tombe sur un ravin.
+Genre un gros vide... et au milieu, un pont fait juste de points.
+
+    . . . . . . . . . . . . . . .
+   (•_•)
+   /| |\
+    | |
+
+Bob : C’est ça le pont ? Ça tient avec des points ?
+
+Bon bah... j’vais tenter. Un pas après l’autre...
+
+    (•_•) . . . .
+    /| |\   ← moi
+     | |
+
+Mais là, PAF, un point tombe.
+
+Bob : Wouaaah  C’est piégé ce truc ?!
+
+J’ai sauté vite fait... j’ai failli tomber. Vraiment pas safe ce monde.
+
+
+====================================
+         Chapitre 3
+     Les symboles en délire
+====================================
+
+Je marchais tranquille, quand d’un coup… éclair ! 
+
+Et là, tous les caractères autour de moi deviennent dingues.
+
+    @ # $ % & ! * ? = + 
+
+   (•_•)
+   /| |\
+    | |
+
+Bob : Euuuh… y’a un virus ou quoi ? 😨
+
+Les symboles dansent, changent de place, clignotent…
+On dirait un ordi en PLS.
+
+J’ai pas réfléchi, j’ai sorti mon petit outil de débugage ASCII :
+
+   (•_•)
+   /|=|\
+    | |
+
+J’ai tapoté un peu partout. Un symbole a même explosé 
+
+Puis tout est redevenu calme.
+
+Bob : Pfff... ce monde est vraiment trop bizarre.
+
+
+
+====================================
+         Chapitre 4
+     La grotte des slashs
+====================================
+
+Y’avait une grotte devant moi, un panneau écrit genre :
+
+    /\ Danger : Slashs en folie /\
+
+J’y vais quand même. Courage ou bêtise, on sait pas trop.
+
+    /\
+   /  \    ← entrée
+  /    \
+   
+  (•_•)
+  /| |\
+   | |
+
+À l’intérieur, tout est fait en `/` et `\`. Des murs, des pièges... ça pique les yeux.
+
+   \        /
+    \      /
+     
+     (•_•)
+     /| |\
+      | |
+
+À un moment, j’ai vu un message bizarre :
+
+    ERROR: \\grotte_infinie\\
+
+Bob : Sérieux ? Une boucle infinie maintenant ?
+
+J’ai couru comme jamais et réussi à sortir. Encore une galère...
+
+
+====================================
+         Chapitre 5
+     Le labyrinthe des accolades
+====================================
+
+Y’avait une entrée avec des { partout. C’était un labyrinthe.
+
+       {     {     {
+       }     }     }
+       {     }     {
+           
+           (•_•)   
+           /| |\
+            | |
+
+J’ai tenté de me repérer, mais j’ai vite tourné en rond.
+Heureusement, j’ai laissé des points derrière moi :
+
+    (•_•)
+    /| |\
+     | |   . . . . . .
+
+Et puis j’ai trouvé une sortie bizarre :
+
+    { secret_exit(); }
+
+Bob : Bon... j’vais pas poser de question. On sort !
+
+
+
+====================================
+         Chapitre 6
+     La sortie en MAJUSCULES
+====================================
+
+Après toutes ces dingueries, j’arrive devant un grand panneau lumineux :
+
+    [===== SORTIE =====]
+
+Mais y’a une énigme :
+
+    "ENTRE UN MOT EN MAJUSCULES POUR SORTIR"
+
+Bob : Sérieux ? Une devinette à la fin ? 😩
+
+Je tape un mot...
+
+    >> LIBERTE
+
+Et BAM 💥 le portail s’ouvre.
+
+Je rentre dedans sans réfléchir. Y’a un flash. Je me réveille.
+
+    $ echo "Hello, World!"
+    Hello, ASCII-Bob.
+
+Bob : Hein ? Attends... quoi ? 😐
+
+Fin ?
