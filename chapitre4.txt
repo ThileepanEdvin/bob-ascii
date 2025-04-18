@@ -1,0 +1,44 @@
+====================================
+        BOB, LE PETIT ROBOT
+         Monde ASCII - Chapitre 4
+====================================
+
+[CHAPITRE 4 - La grotte des slashs]
+
+Bob arrive devant une étrange caverne sombre.
+
+Sur l'entrée, une pancarte :
+
+    /\ Attention : Grotte des Slashs ! \/
+
+Il entre courageusement...
+
+   /\
+  /  \    ← entrée
+ /    \
+ (•_•)
+ /| |\
+  | |
+
+À l’intérieur, il découvre des couloirs en zigzag,
+entièrement faits de `/` et `\`…
+
+Bob : Ouh là... j’espère ne pas me perdre ici.
+
+Il avance...
+
+   \        /
+    \      /
+     (•_•)
+     /| |\
+      | |
+
+Mais au bout d’un moment...
+
+    ERROR: \\grotte_infinie\\
+
+Bob : Quoi ?! Un bug de boucle infinie ?!
+
+Il court en arrière, esquive un `/` tombant du plafond, et sort à temps.
+
+Bob : Il faut vraiment que je trouve un moyen de quitter ce monde buggué...
