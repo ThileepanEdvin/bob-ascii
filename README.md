@@ -1,4 +1,4 @@
-# 🧾 Mini Projet Git – Bande dessinée ASCII
+#  Mini Projet Git – Bande dessinée ASCII
 
 ##  Histoire
 
