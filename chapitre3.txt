@@ -1,0 +1,36 @@
+====================================
+        BOB, LE PETIT ROBOT
+         Monde ASCII - Chapitre 3
+====================================
+
+[CHAPITRE 3 - Le bug aux symboles fous]
+
+Alors que Bob pensait avoir trouvé un moment de répit...
+
+BOUM  ! Un éclair traverse le ciel ASCII.
+Soudain, tous les symboles autour de lui se mettent à bouger !
+
+  
+   (•_•) ← Bob
+   /| |\
+    | |
+
+Bob : Qu’est-ce que… ? Les symboles deviennent fous ! 
+
+Les caractères dansent, changent de place, certains disparaissent…
+
+Bob tente de comprendre :
+"Ce monde est instable… peut-être un bug ?"
+
+Il sort un vieux tournevis ASCII de sa poche : 
+
+    (•_•)
+   /|==>\
+    | |
+
+Bob : Voyons si je peux corriger ce bug de symboles...
+
+
+Tout redevient normal. Bob soupire.
+
+Bob : Pfouuuu… ce monde est complètement déréglé...
