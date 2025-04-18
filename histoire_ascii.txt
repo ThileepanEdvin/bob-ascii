@@ -178,7 +178,7 @@ Bob : Bon... j’vais pas poser de question. On sort !
      La sortie en MAJUSCULES
 ====================================
 
-Après toutes ces dingueries, j’arrive devant un grand panneau lumineux :
+Après toutes ces catastrophes , j’arrive devant un grand panneau lumineux :
 
     [===== SORTIE =====]
 
@@ -186,19 +186,19 @@ Mais y’a une énigme :
 
     "ENTRE UN MOT EN MAJUSCULES POUR SORTIR"
 
-Bob : Sérieux ? Une devinette à la fin ? 😩
+Bob : Sérieux ? Une devinette à la fin ? 
 
 Je tape un mot...
 
     >> LIBERTE
 
-Et BAM 💥 le portail s’ouvre.
+Et BAM  le portail s’ouvre.
 
 Je rentre dedans sans réfléchir. Y’a un flash. Je me réveille.
 
     $ echo "Hello, World!"
     Hello, ASCII-Bob.
 
-Bob : Hein ? Attends... quoi ? 😐
+Bob : Hein ? Attends... quoi ? 
 
 Fin ?
