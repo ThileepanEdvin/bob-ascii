@@ -1,0 +1,35 @@
+====================================
+        BOB, LE PETIT ROBOT
+         Monde ASCII - Chapitre 1
+====================================
+
+[INTRODUCTION]
+
+Bob est un petit robot très curieux.
+Un jour, alors qu’il explore un vieux terminal,
+il appuie sur une mauvaise touche…
+
+PSSHHHHH... ZZZZZZZZ... *BOUM!*
+
+Quand il rouvre les yeux, tout autour de lui
+semble... différent. Très... carré.
+
+Il est dans le monde ASCII !
+
+[CHAPITRE 1 - La plaine des tirets]
+
+Bob se retrouve seul, perdu dans une vaste plaine...
+
+    ____________________________
+   |                            |
+   |   -   -   -   -   -   -   |
+   |                            |
+   |     (•_•)                 |
+   |    /|   |\   ← Bob        |
+   |     |___|                 |
+   |____________________________|
+
+Bob : Où suis-je ?! Tout est... plat... et plein de tirets...
+      Il faut que je trouve un moyen de sortir d’ici !
+
+Il commence à avancer lentement vers l'inconnu...
